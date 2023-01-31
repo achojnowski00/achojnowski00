@@ -2,7 +2,7 @@
 
 `IT student | Web developer`
 
-## About me 👦
+### About me 👦
 
 I'm Computer Science student on University of Warmia and Mazury in Olsztyn in Poland. I'm web developer. I specialize in front-end development with usage od JavaScript and React. I build small FastAPI applications.
 
@@ -32,7 +32,7 @@ At this time, my main project is Web Applicaton For Managing Household Budget. A
 <br />
 <br />
 
-#
+---
 
 ### Stats 🚀
 
